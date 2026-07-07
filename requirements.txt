@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain-groq
+langchain-ollama
+langchain-tavily
+python-dotenv
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+tqdm
+ipykernel
+
+
