@@ -20,4 +20,5 @@ python-dotenv
 langchain-litellm
 langchain-google-genai
 langchain-openai
-
+langchain-redis
+pandas
