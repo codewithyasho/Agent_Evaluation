@@ -12,5 +12,12 @@ faiss-cpu
 pypdf
 tqdm
 ipykernel
-
+langchain-groq
+langchain-mistralai
+langchain-community
+litellm
+python-dotenv
+langchain-litellm
+langchain-google-genai
+langchain-openai
 
