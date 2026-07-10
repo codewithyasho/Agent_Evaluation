@@ -22,3 +22,5 @@ langchain-google-genai
 langchain-openai
 langchain-redis
 pandas
+sqlalchemy
+
